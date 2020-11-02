@@ -23,7 +23,7 @@ _Obs.: o passo-a-passo da instalação está assumindo que a instalação do XAM
 ## Execução:
 
 - Inicie o serviço do Apache através do painel de controle do XAMPP.
-- No seu navegador digite localhost ou o endereço do virtual host.
+- No seu navegador digite o endereço do virtual host.
 
 _Obs.:Caso ao acessar a página você se depare com o erro "Database Exception – yii\db\Exception could not find driver" vá até "%systemdrive%\xampp\php", abra o arquivo php.ini e descomente, ou adicione, as linhas "extension=pdo_pgsql" e "extension=pgsql"_ 
 
