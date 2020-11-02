@@ -14,7 +14,7 @@ Trate-se de um sistema de cadastro de médicos e especialidades.
 ### Instalação:
 _Obs.: o passo-a-passo da instalação está assumindo que a instalação do XAMPP foi feita._
 
-- Após a instalação do XAMPP e PostgreSQL será necessário baixar o repositório do sistema disponível no GitHub (https://github.com/rafael-derner/?tab=repositories).
+- Após a instalação do XAMPP e PostgreSQL será necessário baixar o repositório do sistema disponível no GitHub (https://github.com/rafael-derner/projetophp).
 - Descompacte o arquivo dentro da pasta htdocs (em %systemdrive%\xampp\) **ou** diretamente no caminho de sua preferência (caso seja salvo em outro lugar que não seja a pasta htdocs será necessário a criação de um virtualhost; passo-a-passo ao final desta lista).
 - Após a instalação do PostgreSQL, abra o aplicativo pgAdmin e importe o arquivo com extensão .sql, que também está disponível no GitHub (usuário e senha no arquivo db.php no caminho basic\config, caso necessário).
 
