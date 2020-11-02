@@ -17,7 +17,7 @@ _Obs.: o passo-a-passo da instalação está assumindo que a instalação do XAM
 
 - Após a instalação do XAMPP e PostgreSQL será necessário baixar o repositório do sistema disponível no GitHub (https://github.com/rafael-derner/projetophp).
 - Descompacte o arquivo no caminho de sua preferência e faça a criação de um virtual host (https://hcode.com.br/blog/como-configurar-apache-virtual-hosts-no-windows)
-- Após a instalação do PostgreSQL, abra o aplicativo pgAdmin, crie um novo Server, crie um novo Database com o nome "banco_projeto_php" e importe o arquivo com extensão .sql, que também está disponível no GitHub (usuário e senha no arquivo db.php no caminho basic\config, caso necessário).
+- Após a instalação do PostgreSQL, abra o aplicativo pgAdmin, crie um novo Server, crie um novo Database com o nome "banco_projeto_php" e importe o arquivo com extensão .sql, que também está disponível no GitHub (usuário e senha no arquivo db.php em "%systemdrive%\provaphp\basic\config", caso necessário).
 - Faça a instalação do Composer (https://getcomposer.org/download/). Vá até a pasta basic, abra o Composer e digite "composer install" 
 
 ## Execução:
