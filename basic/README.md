@@ -42,3 +42,7 @@ _Obs.:Caso ao acessar a página você se depare com o erro "Database Exception �
 - Josi Minozzo
 - Lielison Ramos
 - Claudio Gomes Filho
+
+#### Observações:
+
+Algumas alterações feitas nas classes que estão dentro da pasta vendor não foram enviadas para o github, pois a pasta vendor é gerada pelo composer. Caso queira saber quais alterações foram feitas dentro dessas classes eu posso disponibilizar os arquivos separadamente. Agradeço a compreensão. 
